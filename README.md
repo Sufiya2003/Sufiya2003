@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sufiya Khan</h1>
+<h1 align="center">Hi Everyone👋, I'm Sufiya Khan</h1>
 <h3 align="center">A passionate Full Stack developer and Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiya2003&label=Profile%20views&color=0e75b6&style=flat" alt="sufiya2003" /> </p>
